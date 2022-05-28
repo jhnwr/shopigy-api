@@ -1,0 +1,2 @@
+ShopifyAPI
+python-dotenv
